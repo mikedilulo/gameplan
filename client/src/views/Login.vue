@@ -75,7 +75,7 @@
             class="login-picture d-none d-lg-block"
   />-->
   <!-- </div> -->
-  <!-- </div> -->
+  <!-- </template> -->
 </body>
 </template>
 
